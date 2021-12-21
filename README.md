@@ -6,7 +6,7 @@ I'm Rachel Tomi. I'm a software developer and also design in my spare time. I'm 
 
 <h3>Writing and My Blog ✍️</h3>
 
-I write technical articles for agencies and occasionally on my blog @ 👉 https://racheltomi.com about web programming.
+I write technical articles for agencies and occasionally on my blog 👉https://racheltomi.com about web programming.
 
 <h3>Technologies and Tools 🛠</h3>
 
