@@ -1,12 +1,6 @@
 ### Hi there 👋 
 
-<h3>Glad to see you here! 😇</h3>
-
-I'm Rachel Tomi. I'm a software developer and also design in my spare time. I'm passionate about learning, sharing about my knowledge with other people and building interesting stuff.
-
-<h3>Writing and My Blog ✍️</h3>
-
-I write technical articles for agencies and occasionally on my blog 👉https://racheltomi.com about web programming.
+I'm Rachel Tomi - a front end (react) developer and technical writer looking to work on exiciting projects or join a growing team. On my personal blog - https://racheltomi.com, I create web development articles for beginners. Like what you see? I'd love to hear from you. :)
 
 <h3>Technologies and Tools 🛠</h3>
 
