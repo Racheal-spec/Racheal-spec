@@ -1,6 +1,6 @@
 ### Hi there 👋 
 
-I'm Rachel Tomi - a front end (react) developer and technical writer looking to work on exiciting projects or join a growing team. On my personal blog - https://racheltomi.com, I create web development articles for beginners. Like what you see? I'd love to hear from you. :)
+I'm Rachel Tomi - a front end (react) developer and technical writer looking to work on exiciting projects or join a growing team. On my personal blog - https://blog.racheltomi.work, I create web development articles for beginners. Like what you see? I'd love to hear from you. :)
 
 <h3>Technologies and Tools 🛠</h3>
 
@@ -19,9 +19,8 @@ I'm Rachel Tomi - a front end (react) developer and technical writer looking to 
 <h4>About me 👩‍💻</h4>
 
 - 🔭 I’m currently working on something cool
-- 🌱 I’m currently learning data structures and algorithms
+- 🌱 I’m learning data structures and algorithms
 - 👯 I’m looking to collaborate on exciting projects
-- 💬 Ask me about anything
 
 📫 Feel free to reach me at: tomisinrachel@gmail.com
 
