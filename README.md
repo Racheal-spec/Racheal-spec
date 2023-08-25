@@ -17,7 +17,7 @@
 <h3 id="header"> Hi there 👋 </h3>
 
 <div>
-  I'm Rachel Tomi, a Frontend Developer with expertise creating interactive experiences and building accessible web applications for organizations. In my spare time, I also create web development articles for beginners on my personal blog - https://blog.racheltomi.work. I would love to work on projects that make a real difference in the world.
+  I'm Rachel Tosin, a Frontend Developer with expertise creating interactive experiences and building accessible web applications for organizations. In my spare time, I also create web development articles for beginners on my personal blog - https://blog.racheltomi.work. I would love to work on projects that make a real difference in the world.
 It would be a pleasure to hear from you:)
 </div>
 
